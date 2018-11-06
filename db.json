@@ -1,0 +1,335 @@
+{
+  "comments": [
+    {
+      "product": "Yu",
+      "name": "game",
+      "id": 4
+    },
+    {
+      "product": "สวัสดี2",
+      "name": "tide",
+      "id": 5
+    },
+    {
+      "product": "สวัสดีชาวโลก",
+      "name": "tide",
+      "id": 11
+    },
+    {
+      "product": "ระบบ",
+      "name": "tide",
+      "id": 12
+    },
+    {
+      "product": "game",
+      "name": "tide",
+      "id": 13
+    },
+    {
+      "product": "hello2",
+      "name": "tide",
+      "id": 14
+    },
+    {
+      "product": "new product 2",
+      "name": "tide",
+      "id": 15
+    },
+    {
+      "product": "hello",
+      "name": "tide",
+      "id": 16
+    }
+  ],
+  "assets": [
+    {
+      "asset_no": "PC11039",
+      "asset_year": 2015,
+      "asset_categorie": "Notebook",
+      "asset_name": "DELL Inspiron N7520",
+      "desc": "CPU Intel Core i5, Harddisk SSD 1GB ,RAM 8GB ,Display 14 inch",
+      "serial_no": "2Z7SFV1",
+      "part_no": "V560601TH-N7520-BLACK-WIN7HB",
+      "asset_status": true,
+      "asset_department": "Mobile",
+      "comment": "ยืมไปให้น้องฝึกงาน",
+      "user": "Thanapoyuty",
+      "computer_id": 1,
+      "id": 1
+    },
+    {
+      "asset_no": "PC120380",
+      "asset_year": "2012",
+      "asset_categorie": "Notebook",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU: Core i5-2450U @2.5GHz, RAM 8GB, HDD 500GB",
+      "serial_no": "R9ERK4T",
+      "part_no": "dfsdfsdf",
+      "asset_status": true,
+      "asset_department": "PHP",
+      "comment": "Hello",
+      "user": "Thanapon",
+      "computer_id": 2,
+      "id": 2
+    },
+    {
+      "asset_no": "PC12038",
+      "asset_year": "2012",
+      "asset_categorie": "Monitor",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU: Core i5-2450U @2.5GHz, RAM 8GB, HDD 500GB",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ETyyytutyutyu",
+      "asset_status": false,
+      "asset_department": "IS-CNX",
+      "comment": "สวัสดี",
+      "user": null,
+      "computer_id": 3,
+      "id": 3
+    },
+    {
+      "asset_no": "NB012_12/15",
+      "asset_year": "2012",
+      "asset_categorie": "Notebook",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU Intel Core i3, Harddisk HDD 512GB ,RAM 8GB ,Display 13 inch",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ET",
+      "asset_status": true,
+      "asset_department": "PHP",
+      "comment": "kjkjhkhjkjhk",
+      "user": "BBGGEZ",
+      "computer_id": 4,
+      "id": 4
+    },
+    {
+      "asset_no": "NB012_12/15",
+      "asset_year": "2012",
+      "asset_categorie": "Notebook",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU Intel Core i3, Harddisk HDD 512GB ,RAM 8GB ,Display 13 inch",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ET",
+      "asset_status": true,
+      "asset_department": "PHP",
+      "comment": "kjkjhkhjkjhk",
+      "user": "Beeze005",
+      "computer_id": 5,
+      "id": 5
+    },
+    {
+      "asset_no": "NB012_12/15",
+      "asset_year": "2012",
+      "asset_categorie": "Notebook",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU Intel Core i3, Harddisk HDD 512GB ,RAM 8GB ,Display 13 inch",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ET",
+      "asset_status": true,
+      "user": "Pruktan",
+      "asset_department": "PHP",
+      "comment": "kjkjhkhjkjhk",
+      "computer_id": 6,
+      "id": 6
+    },
+    {
+      "asset_no": "NB012_12/15",
+      "asset_year": "2012",
+      "asset_categorie": "Monitor",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU Intel Core i5, Harddisk HDD 512GB ,RAM 8GB ,Display 15 inch",
+      "serial_no": "R9ERK4T",
+      "part_no": "dfg",
+      "asset_status": true,
+      "asset_department": "Mobile",
+      "comment": "ttttttttt",
+      "user": "ttrytry",
+      "computer_id": 7,
+      "id": 7
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "value": "IS-CNX",
+      "text": "IS-CNX"
+    },
+    {
+      "id": 2,
+      "value": "PHP",
+      "text": "PHP"
+    },
+    {
+      "id": 3,
+      "value": "PHP",
+      "text": "PHP"
+    },
+    {
+      "id": 4,
+      "value": "Mobile",
+      "text": "Mobile"
+    },
+    {
+      "id": 5,
+      "value": "FTL",
+      "text": "FTL"
+    },
+    {
+      "id": 6,
+      "value": "BI",
+      "text": "BI"
+    },
+    {
+      "id": 7,
+      "value": "Test",
+      "text": "Test"
+    },
+    {
+      "id": 8,
+      "value": "Account",
+      "text": "Account"
+    },
+    {
+      "id": 9,
+      "value": "AEX",
+      "text": "AEX"
+    },
+    {
+      "id": 10,
+      "value": "Designer",
+      "text": "Designer"
+    },
+    {
+      "id": 11,
+      "value": "PMO",
+      "text": "PMO"
+    }
+  ],
+  "categorie": [
+    {
+      "id": 1,
+      "value": "Notebook",
+      "text": "Notebook"
+    },
+    {
+      "id": 2,
+      "value": "Monitor",
+      "text": "Monitor"
+    }
+  ],
+  "computer": [
+    {
+      "cpu_name": "Intel Core i5",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 3,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 4,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 5,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 6,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 7,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    },
+    {
+      "id": 8,
+      "cpu_name": "Intel Core i5 ",
+      "harddisk_type": "SSD",
+      "harddisk_qty": 1,
+      "ram": 8,
+      "display": 14
+    }
+  ],
+  "cpu": [
+    {
+      "id": 1,
+      "value": "Intel Core i3",
+      "text": "Intel Core i3"
+    },
+    {
+      "id": 2,
+      "value": "Intel Core i5",
+      "text": "Intel Core i5"
+    },
+    {
+      "id": 3,
+      "value": "Intel Core i7",
+      "text": "Intel Core i7"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "first_name": "thanapon",
+      "last_name": "prunktan",
+      "email": "thanapon.p@aware.co.th",
+      "department": "PHP",
+      "user_type": "admin"
+    },
+    {
+      "first_name": "ธนพล",
+      "last_name": "พฤกทาน",
+      "email": "beeze005@hotmail.com",
+      "department": "PHP",
+      "id": 2
+    },
+    {
+      "first_name": "Thanapon",
+      "last_name": "Prunktan",
+      "email": "beeze001@gmail.com",
+      "department": "PHP",
+      "id": 3
+    },
+    {
+      "first_name": "tiekung",
+      "last_name": "sos",
+      "email": "beeze005@hotmail.com",
+      "department": "PHP",
+      "user_type": "admin",
+      "id": 4
+    }
+  ]
+}

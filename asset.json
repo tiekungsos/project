@@ -1,0 +1,42 @@
+ { "assets": [
+    {
+      "asset_no": "PC11039",
+      "asset_year": 2015,
+      "asset_categorie": "Notebook",
+      "asset_name": "DELL Inspiron N7520",
+      "desc": "CPU: Core i5-3210M, 3rd Gen., RAM 8GB, HDD: 1TB+32GB SSD",
+      "serial_no": "2Z7SFV1",
+      "part_no": "V560601TH-N7520-BLACK-WIN7HB",
+      "asset_status": true,
+      "asset_department": "PHP",
+      "comment": "ยืมไปให้น้องฝึกงาน",
+      "id": 1
+    },
+    {
+      "asset_no": "PC12038",
+      "asset_year": "2012",
+      "asset_categorie": "Notebook",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU: Core i5-2450U @2.5GHz, RAM 8GB, HDD 500GB",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ET",
+      "asset_status": "true",
+      "asset_department": "PHP",
+      "comment": "asdasdasdas",
+      "id": 2
+    },
+    {
+      "asset_no": "PC12038",
+      "asset_year": "2012",
+      "asset_categorie": "Monitor",
+      "asset_name": "Thinkpad Edge E420",
+      "desc": "CPU: Core i5-2450U @2.5GHz, RAM 8GB, HDD 500GB",
+      "serial_no": "R9ERK4T",
+      "part_no": "LNV-11412ET",
+      "asset_status": "true",
+      "asset_department": "IS-CNX",
+      "comment": "สวัสดี",
+      "id": 5
+    }
+  ]
+}
